@@ -1,0 +1,1 @@
+export const GRID_SPACING: number = 30;
